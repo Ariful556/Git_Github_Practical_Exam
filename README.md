@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Git_Github_Practical_Exam
 
 ## 3. Installation
@@ -25,3 +26,6 @@ const API_KEY = 'ENTER YOUR API';
 
 
 >>>>>>> d9305267f5833baab43fcd7699a6294b0e731e5c
+=======
+# Git_Github_Practical_Exam
+>>>>>>> c096dc167c71d97d7e94510b450f872c3f6f8e5a
