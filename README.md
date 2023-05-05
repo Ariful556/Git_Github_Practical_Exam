@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Git_Github_Practical_Exam
 
 ## 3. Installation
@@ -12,7 +11,7 @@ git clone https://github.com/your_username_/Project-Name.git
 npm install
 4. Enter your API in config.js
 const API_KEY = 'ENTER YOUR API';
-=======
+
 # Table of Contents
 1. Project's Title
 2. Project Description
@@ -24,8 +23,3 @@ const API_KEY = 'ENTER YOUR API';
 
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
-
->>>>>>> d9305267f5833baab43fcd7699a6294b0e731e5c
-=======
-# Git_Github_Practical_Exam
->>>>>>> c096dc167c71d97d7e94510b450f872c3f6f8e5a
