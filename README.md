@@ -33,3 +33,13 @@ git clone https://github.com/your_username_/Project-Name.git
 npm install
 4. Enter your API in config.js
 const API_KEY = 'ENTER YOUR API';
+
+## 4. Contributors
+Thank you to the following contributors who have helped to improve this project:
+
+Name | Email | Phone
+------------- | ------------- | -------------
+Arif Akmal | arif.akmal@bjitacademy.com | 01785743006
+Arup Chakraborty | arup.chakraborty@bjitacademy.com | 01644252337
+Md Ariful Islam | mdariful.islam@bjitacademy.com | 01780982495
+Akash Chakraborty | akash.chakraborty@bjitacademy.com | 01844689817
